@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="logo">pizza</string>
+    <string name="store">Store</string>
+    <string name="name">Your Name</string>
+    <string name="nameTextField">Please fill your name</string>
+    <string name="submitBtn">Submit</string>
+    <string name="user_icon">user_icon</string>
+    <string name="sayHello">Hello, Ridwan</string>
+    <string name="storePhotos">Store Photos</string>
+    <string name="storeLocation">Cihampelas</string>
+    <string name="find">Find on Maps</string>
+    <string name="location">Location</string>
+    <string name="labelBtnMenus">See Menus</string>
+    <string name="food">food</string>
+    <string name="price">Price: Rp. 66.000</string>
+    <string name="desc_menu">Pepperoni pizza adalah pizza yang memiliki topping daging pepperoni sapi asli. Di Italia, pepperoni disebut salame piccante (salami panas). Biasa menjadi bahan baku pizza di Amerika Serikat, yang sering mewakili 30% pelengkap. Pizza ini cocok untuk santap siang ataupun malam anda</string>
+    <string name="pepper">Pepperoni Pizza</string>
+    <string name="labelBtnOrder">Order Now</string>
+    <string name="labelBtnBack">Back</string>
+    <string name="labelOrderDetail">Order Detail</string>
+    <string name="order_info">Ridwan\nStore: Cihampelas\nSteak sudah dipesan</string>
+    <string name="deliveryOption1">Ambil Sendiri</string>
+    <string name="deliveryOption2">Fast Delivery (minimal 30 menit sampai)</string>
+    <string name="labelBtnDone">Done</string>
+    <string name="orderSuccessMsg">Terima kasih Pak Ridwan sudah memesan di toko kami, pesanan Steak Anda dikirim menggunakan Fast Delivery</string>
+    <string name="pengiriman">Pengiriman</string>
+</resources>
