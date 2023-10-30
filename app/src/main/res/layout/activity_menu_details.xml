@@ -9,7 +9,7 @@
 
     <ImageView
         android:id="@+id/foodImage"
-        android:layout_width="411dp"
+        android:layout_width="match_parent"
         android:layout_height="250dp"
         android:src="@drawable/__pizza_order"
         tools:ignore="MissingConstraints"
