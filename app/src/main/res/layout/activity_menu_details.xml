@@ -48,6 +48,7 @@
         android:layout_marginHorizontal="30dp"
         android:layout_marginVertical="20dp"
         android:gravity="start|top"
+        android:justificationMode="inter_word"
         android:text="@string/desc_menu"
         android:textAlignment="viewStart"
         android:textColor="#733f0e"
